@@ -1,0 +1,4 @@
+flask
+pyodbc
+python-dotenv
+jinja2
